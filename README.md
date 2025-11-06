@@ -30,4 +30,3 @@ El sistema está diseñado para funcionar en tiempo real y puede integrarse con 
 
 ---
 
-## 🧩 Estructura del proyecto
